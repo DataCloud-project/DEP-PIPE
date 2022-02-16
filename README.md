@@ -3,3 +3,5 @@
 [![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/DEP-PIPE.svg)](https://github.com/DataCloud-project/DEP-PIPE/issues)
 
 # DEP-PIPE
+
+Main repository with instructions for the setup of DEP-PIPE.
