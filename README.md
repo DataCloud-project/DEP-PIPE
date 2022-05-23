@@ -2,6 +2,15 @@
 
 [![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/DEP-PIPE.svg)](https://github.com/DataCloud-project/DEP-PIPE/issues)
 
-# DEP-PIPE
+# DEP-PIPE Overview
+
+ DEP-PIPE enables flexible and scalable deployment and orchestration of Big Data pipelines over the Computing Continuum resources. DEP-PIPE monitors the pipeline execution and provides online SLO metrics to the other tools. 
+ 
+ 
 
 Main repository with instructions for the setup of DEP-PIPE.
+
+
+>
+
+
