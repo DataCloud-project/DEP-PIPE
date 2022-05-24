@@ -1,16 +1,26 @@
-<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
+<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/DEP-PIPE-translator/main/img/DEPPIPE_Logo_TransparentBackground_White.png"></p>&nbsp;
 
 [![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/DEP-PIPE.svg)](https://github.com/DataCloud-project/DEP-PIPE/issues)
 
 # DEP-PIPE Overview
 
- DEP-PIPE enables flexible and scalable deployment and orchestration of Big Data pipelines over the Computing Continuum resources. DEP-PIPE monitors the pipeline execution and provides online SLO metrics to the other tools. 
+ DEP-PIPE enables flexible and scalable deployment and orchestration of Big Data pipelines over the Computing Continuum resources. Through DEP-PIPE, user also monitors the pipeline execution and provides online SLO metrics to the other tools. 
  
  
+## DEP-PIPE components and dependencies
 
-Main repository with instructions for the setup of DEP-PIPE.
+> DEP-PIPE is based and extends the **MAESTRO** product of UBITECH. Some of the components of DEP-PIPE will be released open source, while others are considered important for the exploitation of the DataCloud Toolbox as a whole. With the  **first release of DEP-PIPE** (October 2022) the code of the following sub-components that have been build in the scope of the project as extentions, will be provided in the corresponding folders.
+
+- DataCloud DEP-PIPE translator and Controlllers: https://github.com/DataCloud-project/DEP-PIPE-translator
+- Drift Detection Libraries: https://github.com/DataCloud-project/Monitoring-and-Drift-Detection-Libraries
 
 
->
+## Setup and Usage
+DEP-PIPE  will be able to be used by a)downloading the dedicated container image of the components, or b) by following the provided instructions in order to build the software from code. 
+
+>Components can be used as standalone services, but for the proper function of DEP-PIPE as part of the DataCloud Toolbox the usage of MAESTRO orchestration is required. Interested users can request (to gledakis@ubitech.eu) for using MAESTRO to fully test DEP-PIPE.  
+>**First release of DEP-PIPE** will be available on October 2022.
+
+
 
 
