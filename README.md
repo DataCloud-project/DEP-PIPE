@@ -14,8 +14,9 @@
 
 > DEP-PIPE is based and extends the **MAESTRO** product of UBITECH. Some of the components of DEP-PIPE will be released open source, while others are considered important for the exploitation of the DataCloud Toolbox as a whole. With the  **first release of DEP-PIPE** (October 2022) the code of the following sub-components that have been build in the scope of the project as extentions, will be provided in the corresponding folders.
 
-- DataCloud DEP-PIPE translator and Controlllers: https://github.com/DataCloud-project/DEP-PIPE-translator
+- DataCloud Deployment Controlller: https://github.com/DataCloud-project/DEP-PIPE-translator
 - Drift Detection Libraries: https://github.com/DataCloud-project/Monitoring-and-Drift-Detection-Libraries
+- Security Controller: [https://github.com/DataCloud-project/Monitoring-and-Drift-Detection-Libraries](https://github.com/DataCloud-project/DEP-PIPE-Cluster-Management-and-Protection
 
 
 ## Setup and Usage
