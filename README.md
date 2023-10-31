@@ -12,7 +12,7 @@
  
 ## DEP-PIPE components and dependencies
 
-> DEP-PIPE is based and extends the **MAESTRO** product of UBITECH. Some of the components of DEP-PIPE will be released open source, while others are considered important for the exploitation of the DataCloud Toolbox as a whole. With the  **first release of DEP-PIPE** (October 2022) the code of the following sub-components that have been build in the scope of the project as extentions, will be provided in the corresponding folders.
+> DEP-PIPE is based and extends the **MAESTRO** product of UBITECH. While MAESTRO is clouse source, the components presented below  are released open source, while the updates perfomed in the UI are considered important for the exploitation of the DataCloud Toolbox as a whole and remain as closed source extensions of MAESTRO. 
 
 - DataCloud Deployment Controlller: https://github.com/DataCloud-project/DEP-PIPE-translator
 - Drift Detection Libraries: https://github.com/DataCloud-project/Monitoring-and-Drift-Detection-Libraries
@@ -20,11 +20,11 @@
 
 
 ## Setup and Usage
-DEP-PIPE  will be able to be used by a)downloading the dedicated container image of the components, or b) by following the provided instructions in order to build the software from code. 
+DEP-PIPE  is used by a)downloading the dedicated container image of the components, or b) by following the provided instructions in order to build the software from code. 
 
 >Components can be used as standalone services, but for the proper function of DEP-PIPE as part of the DataCloud Toolbox the usage of MAESTRO orchestration is required. Interested users can request (to gledakis@ubitech.eu) for using MAESTRO to fully test DEP-PIPE.  
 
->**First release of DEP-PIPE** will be available on October 2022.
+>**Final release of DEP-PIPE** released on October 2023.
 
 
 
