@@ -7,7 +7,8 @@
 
  DEP-PIPE enables flexible and scalable deployment and orchestration of Big Data pipelines over the Computing Continuum resources. Through DEP-PIPE, user also monitors the pipeline execution and provides online SLO metrics to the other tools. 
  
- <p align="center"><img width=80% src="https://github.com/DataCloud-project/DEP-PIPE/blob/main/img/landing1.jpg"></p>&nbsp;
+<img src="img/allpipe_after_login_deppipe.png" width="auto"  />  
+<br/><br/>
  
  
 ## DEP-PIPE components and dependencies
